@@ -1,11 +1,3 @@
-print('Projeto Programa 3 – Gerador de Senhas')
-print('''\nIntegrantes\n
-ANTONIA CAROLAINE ALVES DA SILVA
-JONATHAN NUNES DE ALMEIDA
-MATEUS DOS SANTOS PEREIRA
-ODILON ALVES DE REZENDE NETO
-SAIMON RIBEIRO DOS SANTOS\n''')
-
 from random import *
 #Tipo da senha 
 Mat = []
